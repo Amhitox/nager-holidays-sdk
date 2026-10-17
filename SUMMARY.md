@@ -1,6 +1,6 @@
 # Community - API V4
 
-> The Nager.Date Community API is a public service that provides reliable information about public holidays for countries around the world. It allows developers to query national holiday dates, check whether a specific day is a public holiday and list upcoming holidays.
+> This public holiday API provides information about holidays for countries around the world. It allows developers to query national holiday dates, check whether a specific day is a public holiday and list upcoming holidays.
 >
 > By using the API, you agree to the &lt;a href=&quot;https://date.nager.at/Legal/TermsOfService&quot;&gt;Terms of Service.&lt;/a&gt;
 

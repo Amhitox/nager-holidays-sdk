@@ -942,13 +942,13 @@
           "email": "hello@nager.software",
           "name": "Nager Software Solutions"
         },
-        "description": "The Nager.Date Community API is a public service that provides reliable information about public holidays for countries around the world. It allows developers to query national holiday dates, check whether a specific day is a public holiday and list upcoming holidays.\r\n\r\n\r\n\r\nBy using the API, you agree to the <a href=\"https://date.nager.at/Legal/TermsOfService\">Terms of Service.</a>",
+        "description": "This public holiday API provides information about holidays for countries around the world. It allows developers to query national holiday dates, check whether a specific day is a public holiday and list upcoming holidays.\r\n\r\n\r\n\r\nBy using the API, you agree to the <a href=\"https://date.nager.at/Legal/TermsOfService\">Terms of Service.</a>",
         "servers": [
           {
             "url": "https://nagerholidays.com"
           }
         ],
-        "summary": "The Nager.Date Community API is a public service that provides reliable information about public holidays for countries around the world.",
+        "summary": "This public holiday API provides information about holidays for countries around the world.",
         "termsOfService": "https://date.nager.at/Legal/TermsOfService",
         "title": "Community - API V4",
         "version": "v4",

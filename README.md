@@ -2,7 +2,7 @@
 
 Community - API V4 client, generated from the OpenAPI spec.
 
-The Nager.Date Community API is a public service that provides reliable information about public holidays for countries around the world.
+This public holiday API provides information about holidays for countries around the world.
 
 Learn more about Community - API V4 at [nagerholidays.com](https://nagerholidays.com).
 

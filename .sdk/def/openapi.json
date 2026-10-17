@@ -2,7 +2,7 @@
     "openapi":  "3.1.1",
     "info":  {
                  "title":  "Community - API V4",
-                 "description":  "The Nager.Date Community API is a public service that provides reliable information about public holidays for countries around the world. It allows developers to query national holiday dates, check whether a specific day is a public holiday and list upcoming holidays.\r\n\r\n\r\n\r\nBy using the API, you agree to the \u003ca href=\"https://date.nager.at/Legal/TermsOfService\"\u003eTerms of Service.\u003c/a\u003e",
+                 "description":  "This public holiday API provides information about holidays for countries around the world. It allows developers to query national holiday dates, check whether a specific day is a public holiday and list upcoming holidays.\r\n\r\n\r\n\r\nBy using the API, you agree to the \u003ca href=\"https://date.nager.at/Legal/TermsOfService\"\u003eTerms of Service.\u003c/a\u003e",
                  "termsOfService":  "https://date.nager.at/Legal/TermsOfService",
                  "contact":  {
                                  "name":  "Nager Software Solutions",
